@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #b7f7e1;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -152,10 +152,10 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
+		background-color: #d5f4f7;
 		color: #000000;
 	}
-
+	
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
